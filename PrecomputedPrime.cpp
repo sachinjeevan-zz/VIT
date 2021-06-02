@@ -13,7 +13,7 @@ int main()
     {
         arr[i] = 1;
     }
-    for(int i=2;i*i<0<=sqr;i++)
+    for(int i=2;i*i<=sqr;i++)
     {
         if(arr[i]==1)
         {
